@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nfcConsoleWrite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c8c61cdc953653e6a7364352fb91486e23885e")]
 [assembly: System.Reflection.AssemblyProductAttribute("nfcConsoleWrite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nfcConsoleWrite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
