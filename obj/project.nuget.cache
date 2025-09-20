@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "X7Bc0Y9/lQE=",
+  "dgSpecHash": "9Y1SEf8JfFY=",
   "success": true,
-  "projectFilePath": "C:\\GITHUB\\nfcConsoleWrite\\nfcConsoleWrite.csproj",
+  "projectFilePath": "C:\\Clone_Github\\nfcConsoleWrite\\nfcConsoleWrite.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dev\\.nuget\\packages\\pcsc\\7.0.1\\pcsc.7.0.1.nupkg.sha512",
-    "C:\\Users\\Dev\\.nuget\\packages\\pcsc.iso7816\\7.0.1\\pcsc.iso7816.7.0.1.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\pcsc\\7.0.1\\pcsc.7.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\pcsc.iso7816\\7.0.1\\pcsc.iso7816.7.0.1.nupkg.sha512"
   ],
   "logs": []
 }
